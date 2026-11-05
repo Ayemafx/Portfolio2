@@ -1,0 +1,11 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/Ayemafx/Portfolio-Website.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "add-deeptracker-case-study"]
+	remote = origin
+	merge = refs/heads/add-deeptracker-case-study
